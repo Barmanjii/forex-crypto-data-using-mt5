@@ -1,6 +1,6 @@
 # Please you python3.12 with pip 24.0
 
-# Install Packages:
+# Install Packages (Recommended using the Virtul Env):
 
 > pip install -r requirements.txt
 
